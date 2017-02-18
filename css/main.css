@@ -29,6 +29,10 @@ h1 {
     text-align: center;
 }
 
+.backgroundClick {
+    background-color: dodgerblue !important;
+}
+
 .articles div {
     margin-bottom: 5%;
     border-radius: 5px;
